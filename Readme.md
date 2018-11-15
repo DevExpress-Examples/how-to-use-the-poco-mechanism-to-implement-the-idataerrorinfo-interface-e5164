@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainView.xaml](./CS/View/MainView.xaml)**
+* [MainViewModel.cs](./CS/ViewModel/MainViewModel.cs)
+<!-- default file list end -->
 # How to: Use the POCO Mechanism to implement the IDataErrorInfo Interface
 
 
